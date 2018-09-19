@@ -1,0 +1,7 @@
+C:\Users\DELL\Documents\T05RamirezGarciaJesus\T05RamirezGarciaJesus\obj\Debug\T05RamirezGarciaJesus.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\T05RamirezGarciaJesus\T05RamirezGarciaJesus\obj\Debug\T05RamirezGarciaJesus.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\T05RamirezGarciaJesus\T05RamirezGarciaJesus\bin\Debug\T05RamirezGarciaJesus.exe.config
+C:\Users\DELL\Documents\T05RamirezGarciaJesus\T05RamirezGarciaJesus\bin\Debug\T05RamirezGarciaJesus.exe
+C:\Users\DELL\Documents\T05RamirezGarciaJesus\T05RamirezGarciaJesus\bin\Debug\T05RamirezGarciaJesus.pdb
+C:\Users\DELL\Documents\T05RamirezGarciaJesus\T05RamirezGarciaJesus\obj\Debug\T05RamirezGarciaJesus.exe
+C:\Users\DELL\Documents\T05RamirezGarciaJesus\T05RamirezGarciaJesus\obj\Debug\T05RamirezGarciaJesus.pdb
